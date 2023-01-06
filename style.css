@@ -118,7 +118,7 @@ button:hover{
     color: #fff;
 }
 .details-product h2{
-    font-size: 45px;
+    font-size: 35px;
 }
 .helpful-resources--area{
     display: flex;
@@ -140,7 +140,7 @@ button:hover{
     border-bottom: #fd1a1a 1px solid;
 }
 .helpful-resources--title h2{
-    font-size: 45px;
+    font-size: 35px;
 }
 .helpful-resourse--important-points{
     display: flex;
@@ -184,7 +184,7 @@ button:hover{
     width: 500px;
 }
 .images-grid--title h2{
-    font-size: 45px;
+    font-size: 35px;
 }
 .images-grid{
     display: grid;
@@ -501,6 +501,20 @@ footer{
     .image04{
         width: 80vw;
         height: 80vw
+    }
+    .grid-images--description {
+        text-align: center;
+        width: 80vw;
+    }
+    .details-product h2 {
+        width: 80vw;
+        font-size: 25px;
+    }
+    .helpful-resources--title h2{
+        font-size: 25px;
+    }
+    .images-grid--title h2{
+        font-size: 25px;
     }
 }
 /*SMARTPHONE*/
